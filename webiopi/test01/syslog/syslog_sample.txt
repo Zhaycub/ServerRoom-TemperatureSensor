@@ -1,0 +1,10 @@
+from logging.handlers import SysLogHandler
+import logging
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+syslog = SysLogHandler(address=('<SYSLOG IP HERE>',514))
+logger.addHandler(syslog)
+fahrenheit = 73.4
+logger.info('Pi Server room temperature at %0.1f F' % (fahrenheit))
+fahrenheit = 85.7
+logger.critical('Pi Server room temperature at %0.1f F' % (fahrenheit))
