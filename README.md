@@ -24,3 +24,9 @@ After completion
 
 Insert the tray into your server room at your location of choice. Power your Raspberry Pi. VNC Viewer into said Pi. Open the command line and run the script. sudo webiopi –d –c /etc/webiopi/config
 Open the website via your IP address at port 8000
+
+
+Demonstration
+
+<MUTE THE VIDEO!!>
+https://www.youtube.com/watch?v=Q9vQ9oP09nU
