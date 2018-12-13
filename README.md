@@ -26,7 +26,6 @@ Insert the tray into your server room at your location of choice. Power your Ras
 Open the website via your IP address at port 8000
 
 
-Demonstration
+Video
 
-<MUTE THE VIDEO!!>
-https://www.youtube.com/watch?v=Q9vQ9oP09nU
+https://www.youtube.com/watch?v=hozi-GyjMh0
